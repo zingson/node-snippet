@@ -14,7 +14,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "node-mongo-mql": "^1.0.3",
     "uuid": "^3.3.2"
   }
